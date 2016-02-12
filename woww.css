@@ -1,0 +1,161 @@
+
+
+ul#menu li {
+    display: inline;
+    margin-right: 3px;
+
+}
+
+ul#menu li a {
+    background-color: #A0A0A0;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #505050;
+    border-radius: 4px 4px 0 0;
+}
+
+ul#menu li a:hover {
+    color: white;
+    background-color: #aa80ff;
+}
+
+
+#choice
+{
+    width: 200px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: 4px;
+    border: 2px solid #6E3D9E;   /*If we remove this border then we will get rid of border */
+    border-radius: 8px;          /*But, still we will maintain the div part*/  
+    display: inline-block;       /*Actually, In beginning we can have border to get content in proper div*/
+    float: left;                 /*Later, We can delete the border wahat we want to be deleted :D :D :D */
+   
+        
+}
+
+.content
+{
+    width: 180px;
+    height: 35px;
+    border: 2px solid #6E3D9E;
+    border-radius: 6px;
+    text-align: center;
+    padding: inherit;
+    margin-left: 7.5px;
+    padding-top: 3px;
+    font-size: 26px;
+    font-style: oblique;
+    color: #ffff66;
+    display: inline-block;
+    
+}
+
+a:hover
+{
+    color: #D2F8F7;
+}
+
+#home
+{
+    font-size: 26px;
+    color: cyan;
+    padding-left: 8px;
+    padding-top: 7px;
+    display: inline-block;
+    background-color: #6A5ACD;
+    border: 2px solid blueviolet;
+    border-radius: 4px;
+    margin-left: 6px;
+}
+
+#news
+{
+   font-size: 26px;
+   color: cyan;
+   padding-left: 16px;
+   padding-top: 8px; 
+   display: inline-block;    
+}
+
+#userdata
+{
+    width: 200px;
+    height: 150px;
+
+    border-radius: 6px;
+    text-align: left;
+    margin-top: 30px;
+    display: inline-block;
+    float: right;
+    
+}
+
+#mid
+{
+    width: 900px;
+    height: 830px;
+    margin-top: 30px;
+    margin-left: 4px;
+    border: 2px solid #6E3D9E;    
+    border-radius: 8px;
+    display: inline-block;
+    float: left;
+    
+    
+}
+
+#mid1
+{
+    width: 420px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: 4px;
+    border: 2px solid #6E3D9E;    
+    border-radius: 8px;
+    display: inline-block;
+    float: left; 
+    padding-top: 4px;
+    padding-left: 10px;
+    
+    
+}
+
+#mid2
+{
+    width: 420px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: 4px;
+    border: 2px solid #6E3D9E;    
+    border-radius: 8px;
+    display: inline-block;
+    float: left; 
+    padding-left: 10px;
+    
+    
+}
+
+.team
+{
+    font-family: fantasy;
+    font-style:normal;
+    font-size: 25px;
+    color: cadetblue;
+}
+
+#currentnews
+{
+    width: 855px;
+    height: 330px;
+    margin-top: 30px;
+    margin-left: 4px;
+    border: 2px solid #6E3D9E;    
+    border-radius: 8px;
+    display: inline-block;
+    float: left; 
+    padding-left: 10px;
+    font-family: cursive;
+    
+}
+ 
